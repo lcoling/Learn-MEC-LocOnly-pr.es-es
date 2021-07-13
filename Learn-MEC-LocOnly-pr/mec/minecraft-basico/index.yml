@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn.mec.minecraft-basico
+title: "Minecraft: Education Edition Básico"
+hidden: true
+metadata:
+  title: "Minecraft: Education edition básico"
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Elevate student voice
+  description: "En este curso aprenderás los fundamentos básicos de Minecraft:
+    Education Edition"
+abstract: |
+  En este módulo, aprenderá a:  
+   - About minecraft
+  - About coding
+summary: "En este curso aprenderás los fundamentos básicos de Minecraft:
+  Education Edition"
+prerequisites: |
+  - Knowledge of internet
+iconUrl: /learn/achievements/minecraft-basico.png
+levels:
+  - beginner
+products:
+  - minecraft
+roles:
+  - k-12-educator
+  - school-leader
+units:
+  - learn.mec.minecraft-basico.introduction
+  - learn.mec.minecraft-basico.intro-2
+  - learn.mec.minecraft-basico.utilizar-minecraft
+  - learn.mec.minecraft-basico.avatar
+  - learn.mec.minecraft-basico.basicos
+  - learn.mec.minecraft-basico.bloques
+  - learn.mec.minecraft-basico.inventario
+  - learn.mec.minecraft-basico.trabajo
+  - learn.mec.minecraft-basico.fabricacion
+  - learn.mec.minecraft-basico.mundo
+  - learn.mec.minecraft-basico.guardar-mundos
+  - learn.mec.minecraft-basico.materiales-complementarios
+  - learn.mec.minecraft-basico.escuelas
+  - learn.mec.minecraft-basico.knowledge-check
+  - learn.mec.minecraft-basico.summary
+badge:
+  uid: learn.mec.minecraft-basico.badge

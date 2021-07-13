@@ -1,0 +1,212 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.minecraft-basico.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: "¿Cómo podemos logearmos en Minecraft: Education Edition?"
+      choices:
+        - content: Con nuestra cuenta de Gmail
+          isCorrect: false
+          explanation: Malo
+        - content: Con nuestro dispositivo móvil.
+          isCorrect: false
+          explanation: Malo
+        - content: Con nuestra cuenta de Office 365
+          isCorrect: true
+          explanation: Bueno
+        - content: 	Con todas las anteriores
+          isCorrect: false
+          explanation: Malo
+    - content: ¿Qué tecla utilizamos para mover a nuestro personaje hacia la derecha?
+      choices:
+        - content: La tecla W
+          isCorrect: false
+          explanation: Malo
+        - content: La tecla A
+          isCorrect: false
+          explanation: Malo
+        - content: La tecla S
+          isCorrect: false
+          explanation: Malo
+        - content: La tecla D
+          isCorrect: true
+          explanation: Bueno
+    - content: ¿Qué tecla utilizamos para saltar?
+      choices:
+        - content: La tecla W
+          isCorrect: false
+          explanation: Malo
+        - content: La barra espaciadora
+          isCorrect: true
+          explanation: Bueno
+        - content: La tecla Mayus
+          isCorrect: false
+          explanation: Malo
+        - content: La tecla Enter
+          isCorrect: false
+          explanation: Malo
+    - content: "¿Qué tipos de mundos podemos encontrar en Minecraft: Education Edition?"
+      choices:
+        - content: Plano
+          isCorrect: false
+          explanation: Malo
+        - content: Antiguo
+          isCorrect: false
+          explanation: Malo
+        - content: Infinito
+          isCorrect: false
+          explanation: Malo
+        - content: Todos los anteriores
+          isCorrect: true
+          explanation: Bueno
+    - content: ¿Qué botón del ratón utilizamos para destruir los bloques del mundo?
+      choices:
+        - content: El botón izquierdo
+          isCorrect: true
+          explanation: Bueno
+        - content: El botón derecho
+          isCorrect: false
+          explanation: Malo
+    - content: ¿En qué dificultad de juego no aparecen monstruos en el mundo?
+      choices:
+        - content: Difícil
+          isCorrect: false
+          explanation: Malo
+        - content: Normal
+          isCorrect: false
+          explanation: Malo
+        - content: Fácil
+          isCorrect: false
+          explanation: Malo
+        - content: Pacífico
+          isCorrect: true
+          explanation: Bueno
+    - content: ¿En qué modo de juego podemos volar?
+      choices:
+        - content: Supervivencia
+          isCorrect: false
+          explanation: Malo
+        - content: Creativo
+          isCorrect: true
+          explanation: Bueno
+        - content: En todos
+          isCorrect: false
+          explanation: Malo
+        - content: En ninguno
+          isCorrect: false
+          explanation: Malo
+    - content: ¿Qué tecla utilizamos para acceder al inventario de nuestro personaje?
+      choices:
+        - content: Tecla Q
+          isCorrect: false
+          explanation: Malo
+        - content: Tecla S
+          isCorrect: false
+          explanation: Malo
+        - content: Tecla E
+          isCorrect: true
+          explanation: Bueno
+        - content: Tecla D
+          isCorrect: false
+          explanation: Malo
+    - content: ¿En qué modo de juego tenemos acceso a todos los bloques y objetos del
+        mundo?
+      choices:
+        - content: Aventura
+          isCorrect: false
+          explanation: Malo
+        - content: Creativo
+          isCorrect: true
+          explanation: Bueno
+        - content: Supervivencia
+          isCorrect: false
+          explanation: Malo
+    - content: ¿Cuántos tablones de madera se necesitan para construir una mesa de
+        trabajo?
+      choices:
+        - content: "1"
+          isCorrect: false
+          explanation: Malo
+        - content: "2"
+          isCorrect: false
+          explanation: Malo
+        - content: "3"
+          isCorrect: false
+          explanation: Malo
+        - content: "4"
+          isCorrect: true
+          explanation: Bueno
+    - content: ¿Qué materiales necesitas para construir una cama?
+      choices:
+        - content: Lana
+          isCorrect: false
+          explanation: Malo
+        - content: Madera
+          isCorrect: false
+          explanation: Malo
+        - content: Todas las respuestas son correctas
+          isCorrect: true
+          explanation: Bueno
+    - content: Cuando guardamos un mundo de Minecraft en nuestro ordenador ¿cuál es la
+        extensión de este archivo?
+      choices:
+        - content: .doc
+          isCorrect: false
+          explanation: Malo
+        - content: .xls
+          isCorrect: false
+          explanation: Malo
+        - content: .mcworld
+          isCorrect: true
+          explanation: Bueno
+        - content: .minecraft
+          isCorrect: false
+          explanation: Malo
+    - content: "Minecraft: Education Edition permite exportar mundos a nuestros
+        dispositivos e importar desde nuestro dispositivo al juego."
+      choices:
+        - content: Verdadero
+          isCorrect: true
+          explanation: Bueno
+        - content: Falso
+          isCorrect: false
+          explanation: Malo
+    - content: ¿Cuántos espacios hay en el inventario visible en la pantalla del
+        jugador?
+      choices:
+        - content: "5"
+          isCorrect: false
+          explanation: Malo
+        - content: "9"
+          isCorrect: true
+          explanation: Bueno
+        - content: "6"
+          isCorrect: false
+          explanation: Malo
+        - content: "7"
+          isCorrect: false
+          explanation: Malo
+    - content: ¿Qué bloque utilizamos para construir nuevos bloques y objetos?
+      choices:
+        - content: Mesa de trabajo
+          isCorrect: true
+          explanation: Bueno
+        - content: Cofre
+          isCorrect: false
+          explanation: Malo
+        - content: Horno
+          isCorrect: false
+          explanation: Malo
+        - content: Cama
+          isCorrect: false
+          explanation: Malo
