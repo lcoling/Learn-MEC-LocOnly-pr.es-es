@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.minecraft-basico.trabajo
+title: Mesa de trabajo
+metadata:
+  title: Mesa de trabajo
+  description: Mesa de trabajo
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/trabajo.md)]"
