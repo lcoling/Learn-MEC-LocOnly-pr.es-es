@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.minecraft-basico.utilizar-minecraft
+title: Empezar a utilizar Minecraft
+metadata:
+  title: Empezar a utilizar minecraft
+  description: Empezar a utilizar Minecraft
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/utilizar-minecraft.md)]"
