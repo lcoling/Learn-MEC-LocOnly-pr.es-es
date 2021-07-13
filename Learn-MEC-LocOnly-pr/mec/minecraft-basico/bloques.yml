@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.minecraft-basico.bloques
+title: Destruir y colocar bloques
+metadata:
+  title: Destruir y colocar bloques
+  description: Destruir y colocar bloques
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/bloques.md)]"
