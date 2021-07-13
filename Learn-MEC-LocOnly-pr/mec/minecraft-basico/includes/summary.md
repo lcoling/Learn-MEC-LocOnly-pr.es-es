@@ -1,3 +1,0 @@
-
-
-Play minecraft, tres bueno!
